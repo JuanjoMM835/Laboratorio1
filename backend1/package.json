@@ -1,0 +1,18 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "Primer servidor backend para el laboratorio de balanceo de carga",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "TuNombre",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

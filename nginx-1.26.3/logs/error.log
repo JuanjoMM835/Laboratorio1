@@ -1,0 +1,9 @@
+2025/03/13 14:05:11 [notice] 8036#4256: signal process started
+2025/03/13 14:05:11 [error] 8036#4256: CreateFile() "C:\Users\Usuario\Downloads\nginx-1.26.3/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2025/03/13 14:08:39 [notice] 4156#9616: signal process started
+2025/03/13 14:08:39 [error] 4156#9616: CreateFile() "C:\Users\Usuario\Downloads\nginx-1.26.3/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2025/03/13 14:33:20 [error] 14780#11356: *1 CreateFile() "C:\Users\Usuario\Documents\Lab1\nginx-1.26.3/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/03/30 12:49:20 [emerg] 3372#11800: duplicate upstream "backend_servers" in C:\Users\Usuario\Documents\Lab1\nginx-1.26.3/conf/nginx.conf:17
+2025/03/30 12:51:31 [emerg] 19488#20216: duplicate upstream "backend_servers" in C:\Users\Usuario\Documents\Lab1\nginx-1.26.3/conf/nginx.conf:17
+2025/03/30 12:51:40 [notice] 1508#18860: signal process started
+2025/03/30 13:52:11 [notice] 19428#19816: signal process started
